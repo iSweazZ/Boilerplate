@@ -30,7 +30,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 ```
-git clone https://github.com/iSweazZ/boilerplate.git
+git clone https://github.com/iSweazZ/Boilerplate.git
 cd Boilerplate
 ```
 2. Start the Docker containers:
